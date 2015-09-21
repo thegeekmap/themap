@@ -1,0 +1,21 @@
+{
+	"type" : "FeatureCollection",
+	"features" : [
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				51.49781,
+				-0.174523
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "",
+			"marker-symbol" : "museum",
+			"marker-color" : "#ffba00",
+			"name" : "Science Museum"
+		}
+	},
+	]
+}
