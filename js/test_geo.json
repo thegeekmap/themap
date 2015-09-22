@@ -5,8 +5,8 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
-				51.49781,
-				-0.174523
+				-0.174523,
+				51.49781
 			],
 			"type" : "Point"
 		},
