@@ -4,7 +4,7 @@ var map = L.mapbox
 	.map('map', 'mapbox.streets')
 	.setView([54.559322, -4.174804], 6);
 	
-var JsonLayer = map.featureLayer.loadURL('/js/test_geo.json');
+var JsonLayer = map.featureLayer.loadURL('/js/geo.json');
 
 JsonLayer.eachLayer(function(layer) {
 	var content = '<h1>' + layer.feature.properties.name + '</h1>';
